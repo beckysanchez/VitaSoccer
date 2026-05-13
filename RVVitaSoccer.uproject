@@ -23,6 +23,24 @@
 				"LinuxArm64",
 				"Android"
 			]
+		},
+		{
+			"Name": "OpenXRHandTracking",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"LinuxArm64",
+				"Android"
+			]
+		},
+		{
+			"Name": "UE4Duino",
+			"Enabled": true
+		},
+		{
+			"Name": "RawInput",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
