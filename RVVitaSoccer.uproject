@@ -15,7 +15,7 @@
 			]
 		},
 		{
-			"Name": "OpenXREyeTracker",
+			"Name": "OpenXRViveTracker",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
 				"Win64",
